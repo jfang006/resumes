@@ -90,7 +90,7 @@ img{padding:0; margin:0; border:none;display:block;}
 .pub01,.pub02,.pub03{ cursor:pointer}
 .pub02,.pub03{ padding-left:80px;}
 .neirongbox{ margin-top:20px; }
-.neirong{ width:960px;; margin-left:auto; margin-right:auto; overflow:hidden }
+.neirong{ width:960px; margin-left:auto; margin-right:auto; overflow:hidden }
 .neirong_zuo{ width:280px;float:left; margin-top:20px; margin-left:0px}
 .neirong_zuo img{ width:260px;}
 .neirong_zuo h1{ font-size:20px; color:#2f5f90; line-height:60px;}
@@ -99,6 +99,10 @@ img{padding:0; margin:0; border:none;display:block;}
 .neirong_you h1{ font-size:28px; margin-top: 20px; margin-bottom:10px; color: #2f5f90;}
 .neirong_you h2{ font-size:20px; margin-top: 5px; margin-bottom:5px;}
 .neirong_you p{ font-size:16px; color:#535456; line-height:30px;}
+.neirong_single{ width:960px;margin-right:0px;}
+.neirong_single h1{ font-size:28px; margin-top: 20px; margin-bottom:10px; color: #2f5f90;}
+.neirong_single h2{ font-size:20px; margin-top: 5px; margin-bottom:5px;}
+.neirong_single p{ font-size:16px; color:#535456; line-height:30px;}
 .you_shang{ width:320px;}
 .you_shang p{ margin-top:20px; line-height:30px;color:#535456}
 .fanhui{ width:90px; height:30px; background-color:#2f5f90; float:right; color:white; font-size:15px; margin-top:100px;cursor:pointer; float:left; border:none;}
